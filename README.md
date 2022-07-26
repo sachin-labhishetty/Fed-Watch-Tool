@@ -28,7 +28,6 @@ calculate unconditional probabilities of Federal Open Market Committee (FOMC) me
 			
 ![image](https://github.info53.com/storage/user/2781/files/33bc775f-ffa6-4ba1-9af8-4ace792e135a)
 
-Location in shared drive: *Z:\Enterprise Shares\Risk Management\Market_Risk\Fifth Third Securities\Reports\Daily Risk Report 3\Python_codes\fed rate hike probabilities*
 
 ## General Framework
 																				
