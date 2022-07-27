@@ -232,7 +232,7 @@ def main():
     writes the wirp, cme, mod_cme dataframes
     into the excel "BBG_Data".
     """
-    filename = "Z:\Enterprise Shares\Risk Management\Market_Risk\Fifth Third Securities\Reports\Daily Risk Report 3\Troubleshooting Tools\Fed Hike Probabilities_WIRP_CME.xlsx"
+    filename = "Enter the path of your excel file"
     meeting_dates = ['7/27/2022', '9/21/2022','11/2/2022', '12/14/2022', '2/1/2023', '3/15/2023', '5/3/2023',
                 '6/14/2023', '7/26/2023', '9/20/2023', '11/1/2023', '12/13/2023', '1/31/2024']
     flds = ['PX_LAST']
