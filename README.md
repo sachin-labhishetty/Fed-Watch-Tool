@@ -26,12 +26,8 @@ The tool provides a visual representation of the expected path of policy rate ch
 eg. USOAFR MMMYYYY) to calculate percent of a single hike (+) or cut (-) at the associated meeting. Subsequently, this percent of a single hike/cut is used to
 calculate unconditional probabilities of Federal Open Market Committee (FOMC) meeting outcomes to generate a binary probability tree.
 			
-![image](https://github.info53.com/storage/user/2781/files/33bc775f-ffa6-4ba1-9af8-4ace792e135a)
+![image](https://user-images.githubusercontent.com/63976953/181137343-24fee93e-0828-40c3-bb7c-25aff670ae22.png)
 
-
-## General Framework
-																				
-![image](https://github.info53.com/storage/user/2781/files/f9ea6ed7-995e-448b-83b3-61f98ae37034)
 
 
 
